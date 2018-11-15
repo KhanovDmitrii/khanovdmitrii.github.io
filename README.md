@@ -1,4 +1,5 @@
 # khanovdmitrii.github.io
+# Портфолио Ханов Дмитрий Сергеевича, студента воторого курса ИВТ 
 
 [GitHub, разметка MD(СМ_1)](https://github.com/KhanovDmitrii/13092018)
 
