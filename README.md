@@ -1,3 +1,3 @@
 # khanovdmitrii.github.io
 
-[GitHub, разметка MD](https://github.com/KhanovDmitrii/13092018)
+[GitHub, разметка MD(СМ_1)](https://github.com/KhanovDmitrii/13092018)
