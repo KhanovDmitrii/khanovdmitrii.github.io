@@ -12,3 +12,5 @@
 
 [Лабораторная работа 18.10.2018(борд)](https://repl.it/@DmitriiKhanov/FancyEffectiveCron)
 
+[Лабораторная работа 08.11.2018](https://repl.it/@DmitriiKhanov/HarshShabbyProspect)
+
