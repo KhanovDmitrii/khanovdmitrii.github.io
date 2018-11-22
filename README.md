@@ -7,6 +7,8 @@
 
 [Самостоятельная работа №2](https://repl.it/@DmitriiKhanov/GrossDeafeningVisitors)
 
+[пз 2.3](https://repl.it/@DmitriiKhanov/SpicyHollowTechnicians)
+
 [Лабораторная работа №3](https://repl.it/@DmitriiKhanov/20-09-18)
 
 [Лабораторная работа 18.10.2018](https://github.com/KhanovDmitrii/18102018)
