@@ -6,9 +6,46 @@
 
 # Ссылки на работы: 
 
+## ЛБ 1:
+
 [ЛБ 1. Конспект](https://docs.google.com/document/d/1tLnoCOkHkEWNdbkKzQ3UgUwtJwqSsAY0jJVscFbtn6U/edit?usp=sharing)
 
 [ИСР](https://docs.google.com/document/d/1Ub1TjJLqMEeUvzvFjJu0T3Q0JAWUyojaDS8HKPnxm5Q/edit?usp=sharing)
+
+[ВСР 1.1](https://drive.google.com/open?id=1jNC51zdu2e5OsEADw3QXG3U3EcPYkesTWH38JrvWMA8)
+
+## ЛБ 2:
+[ЛБ 2. 1](https://docs.google.com/document/d/1Za_Z1qPlYkbIhpgoT4Bd-dL0lBIETqIeUwr01E6hTts/edit?usp=sharing)
+
+[ИСР 2.1](https://docs.google.com/presentation/d/1a87y32-W7MYORsGAtfRNI2Zrc8v7jmhOyMFigvGm6k0/edit?usp=sharing)
+
+[ИСР 2.2](https://drive.google.com/file/d/1BANzW_3zSRPsdlQpRyvos9m4FjvoXw3J/view?usp=sharing)
+
+[ВСР 2.1](https://drive.google.com/open?id=1xf7Lxkuxb3v_zSr4xUOKRzbG4zorB3EN6qvwWW1reGI)
+
+[ВСР 2.2](https://docs.google.com/document/d/1JIm0UxL0WXtgxzoRldWbmAxxCAPfJzwDkmSuqya4rpc/edit?usp=sharing)
+
+[ВСР 2.3](https://docs.google.com/document/d/1KD7I8lzsqO60XGThlF_Oxb7qumsCuvkSQPsGRXLqj5w/edit?usp=sharing)
+
+## ЛБ 3:
+
+[ЛБ 3. 1](https://docs.google.com/document/d/18KEj42Dfpbsc31zGnIhJvwUnDV7n6I6ghgs1tXH8hzM/edit?usp=sharing)
+
+[ЛБ 3. 2](https://docs.google.com/document/d/1Im3uxcWxfgXavn3DmgbHNp6SbsnbsyDoyol1eq4fbj4/edit?usp=sharing)
+
+[ЛБ 3. 3](https://docs.google.com/document/d/1cCCuYJ2THz40kfoKmaJbpliKcicNWDFPLd9GCwnJrCc/edit?usp=sharing)
+
+[ИСР 3.1](https://docs.google.com/document/d/1ZRD3fG_hNyO02S0MiHZvjaM-bcIsDUtPpp7IxaKEcHU/edit?usp=sharing)
+
+[ИСР 3.2](https://drive.google.com/file/d/16Fdp3uV143NcbtwHqGUVr0VYEbR1640h/view?usp=sharing)
+
+[ИСР 3.2](https://drive.google.com/file/d/1BANzW_3zSRPsdlQpRyvos9m4FjvoXw3J/view?usp=sharing)
+
+[ВСР 3.1](https://docs.google.com/document/d/1-fjz6mu8P69bRw4ax0-Z3HX_ZhDjn-u5qt6A4yEfi9I/edit?usp=sharing)
+
+[ВСР 3.2](https://docs.google.com/document/d/1kvCWcMP0GiZJWPotK6bXO6JSir6wJt6AaR2Q8boItME/edit?usp=sharing)
+
+[ВСР 3.3](https://docs.google.com/document/d/1v0yqjZfq5wtyvr7TopagN1wH2rzc0S900dg-YUj23WI/edit?usp=sharing)
 
 # Программирование
 
