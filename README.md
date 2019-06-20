@@ -49,6 +49,8 @@
 
 # Программирование
 
+## 2 семестр
+
 [GitHub, разметка MD(СМ_1)](https://github.com/KhanovDmitrii/13092018)
 
 [Лабораторная работа №2](https://repl.it/@DmitriiKhanov/MedicalPinkAdministration)
@@ -64,6 +66,18 @@
 [Лабораторная работа 18.10.2018(борд)](https://repl.it/@DmitriiKhanov/FancyEffectiveCron)
 
 [Лабораторная работа 08.11.2018](https://repl.it/@DmitriiKhanov/HarshShabbyProspect)
+
+## 3 семестр
+
+[Лабораторная + самостоятельная работа №1 ](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb1)
+
+[Лабораторная + самостоятельная работа №2](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb2)
+
+[Лабораторная + самостоятельная работа №3](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb3)
+
+[Лабораторная + самостоятельная работа №4](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb4)
+
+[22.05.2019](https://repl.it/@DmitriiKhanov/22052019)
 
 
 # Веб проектирование
