@@ -272,3 +272,9 @@
 [PHP – файлы и изображения](https://moodle.herzen.spb.ru/pluginfile.php/228455/mod_resource/content/1/lr.pdf)
 
 [Выполнение](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/php_lab)
+
+Адрес задания:
+
+[mailer](https://github.com/GossJS/mailer)
+
+[Выполнение](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/php_mailer)
