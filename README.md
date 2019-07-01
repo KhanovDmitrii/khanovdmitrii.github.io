@@ -122,3 +122,145 @@
 [07.02.2019](https://kodaktor.ru/click_09974)
 
 [21.02.2019](https://kodaktor.ru/custom_f2305)
+
+## Портфолио к экзамену по web:
+
+
+Адрес задания:
+
+[FUNC001](https://kodaktor.ru/func_001)
+
+[Выполнение](https://kodaktor.ru/task_func_1b07b)
+
+
+
+Адрес задания:
+
+[FUNC002](https://kodaktor.ru/func_002)
+
+[Выполнение](https://kodaktor.ru/func_9e4a3)
+
+
+
+Адрес задания:
+
+[FUNC003](https://kodaktor.ru/func_003)
+
+[Выполнение](https://kodaktor.ru/func_014de)
+
+
+
+Адрес задания:
+
+[FUNC004](https://kodaktor.ru/func_004)
+
+[Выполнение](https://kodaktor.ru/func_18e25)
+
+
+
+Адрес задания:
+
+[FUNC005](https://kodaktor.ru/func_005)
+
+[Выполнение](https://kodaktor.ru/func_6e770)
+
+
+
+Адрес задания:
+
+[FUNC006](https://kodaktor.ru/func_006)
+
+[Выполнение](https://kodaktor.ru/func_6a33b)
+
+
+
+Адрес задания:
+
+[FUNC-007](https://kodaktor.ru/func_007)
+
+[Выполнение](https://kodaktor.ru/func_a4d86)
+
+
+
+Адрес задания:
+
+[FUNC_008](https://kodaktor.ru/func_008)
+
+[Выполнение](https://kodaktor.ru/zzzzzzz_780c0)
+
+
+
+Адрес задания:
+
+[FUNC_009](https://kodaktor.ru/func_009)
+
+[Выполнение](https://kodaktor.ru/func_c3bbb)
+
+
+
+Адрес задания:
+
+[FUNC_010](https://kodaktor.ru/func_010)
+
+[Выполнение](https://kodaktor.ru/func_05035)
+
+
+
+Адрес задания:
+
+[IPS_TASK](https://kodaktor.ru/g/ips_task)
+
+[Выполнение](https://kodaktor.ru/task_54c52)
+
+
+
+Адрес задания:
+
+[evnt_002](https://kodaktor.ru/evnt_002)
+
+[Выполнение](https://kodaktor.ru/custom_f49e4)
+
+
+
+Адрес задания:
+
+[evnt_003](https://kodaktor.ru/evnt_003)
+
+[Выполнение](https://kodaktor.ru/compo2_c24e0)
+
+
+
+Адрес задания:
+
+[BABL_002](https://kodaktor.ru/bind02032018)
+
+[Выполнение](https://kodaktor.ru/bind02032018_30ec3)
+
+
+
+Адрес задания:
+
+[BNDL_001](https://kodaktor.ru/g/bndl_001)
+
+[Выполнение](https://github.com/KhanovDmitrii/moment_bundle)
+[Страница](https://khanovdmitrii.github.io/moment_bundle/)
+
+
+
+Адрес задания:
+
+[cart](https://kodaktor.ru/g/cart)
+
+[Выполнение](https://kodaktor.ru/custom_2c404)
+
+
+
+Адрес задания:
+
+[CANV_001](http://kodaktor.ru/cnvs/lr_canvas_rates.pdf)
+
+[Выполнение](https://kodaktor.ru/30_5a176)
+
+
+
+
