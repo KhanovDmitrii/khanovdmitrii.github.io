@@ -1,0 +1,23 @@
+{
+	"table": {
+		"students": [{
+			"Ivanov": {
+				"Multi-Media": 3,
+				"Web": 3,
+				"Graphics": 5
+			},
+			"Petrova": {
+				"Multi-Media": 3,
+				"Web": 4,
+				"Graphics": 5,
+				"Logic": 5
+			},
+			"Sidorenko": {
+				"Multi-Media": 3,
+				"Web": 4,
+				"Graphics": 5,
+				"Logic": 4
+			}
+		}]
+	}
+}
