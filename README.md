@@ -262,5 +262,7 @@
 [Выполнение](https://kodaktor.ru/30_5a176)
 
 
+Адрес задания:
+[Добавление и чтение записей файла в PHP](https://moodle.herzen.spb.ru/pluginfile.php/228177/mod_resource/content/1/lrfiles.pdf)
 
-
+Выполнение: все в c9, доступа к нему нету
