@@ -125,6 +125,11 @@
 
 ## Портфолио к экзамену по web:
 
+Адрес задания:
+
+[json_intro](https://kodaktor.ru/g/json_intro)
+
+[Выполнение](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/JSON/README.MD)
 
 Адрес задания:
 
