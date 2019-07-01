@@ -261,6 +261,24 @@
 
 [Выполнение](https://kodaktor.ru/30_5a176)
 
+Адрес задания:
+
+[frmw_001](https://kodaktor.ru/frmw_001)
+
+[Выполнение](https://kodaktor.ru/react_state_3febf)
+
+Адрес задания:
+
+[rmw_002](https://kodaktor.ru/frmw_002)
+
+[Выполнение](https://kodaktor.ru/vue_double_892ca)
+
+Адрес задания:
+
+[frmw_003](https://kodaktor.ru/frmw_003)
+
+[Выполнение](https://kodaktor.ru/vue_double_60551)
+
 
 Адрес задания:
 [Добавление и чтение записей файла в PHP](https://moodle.herzen.spb.ru/pluginfile.php/228177/mod_resource/content/1/lrfiles.pdf)
