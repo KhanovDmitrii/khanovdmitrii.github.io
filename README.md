@@ -266,3 +266,9 @@
 [Добавление и чтение записей файла в PHP](https://moodle.herzen.spb.ru/pluginfile.php/228177/mod_resource/content/1/lrfiles.pdf)
 
 Выполнение: все в c9, доступа к нему нету
+
+Адрес задания:
+
+[PHP – файлы и изображения](https://moodle.herzen.spb.ru/pluginfile.php/228455/mod_resource/content/1/lr.pdf)
+
+[Выполнение](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/php_lab)
