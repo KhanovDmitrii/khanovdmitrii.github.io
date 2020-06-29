@@ -94,8 +94,17 @@
 
 [ВСР 2.1](https://repl.it/@DmitriiKhanov/VSR-5-21#main.py)
 
+## Самостоятельная работа 3
+
+[ИСР 3.1](https://repl.it/@DmitriiKhanov/VSR32-CEM5#main.py)
+
+[ИСР 3.3](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/SR3.MD)
+
+[ВСР](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/VSR3.MD)
 
 ## 6 семестр
+
+
 # Веб проектирование
 
 [Работа 1](https://github.com/KhanovDmitrii/13092018/blob/master/lab1_web.md)
