@@ -104,6 +104,42 @@
 
 ## 6 семестр
 
+## Самостоятельная работа 1
+
+[ИСР'ы 1.1-1.2](https://repl.it/@DmitriiKhanov/SM11-12)
+
+[ВСР](https://repl.it/@DmitriiKhanov/VR11#main.py)
+
+[ЛБ 1](https://repl.it/@DmitriiKhanov/sem6-lr1#main.py)
+
+
+## Самостоятельная работа 2
+
+[ИСР 2.1](https://repl.it/@DmitriiKhanov/ISR-2#main.py)
+
+[ИСР 2.3 / лб](https://repl.it/@DmitriiKhanov/ISR-23)
+
+[ВСР](https://repl.it/@DmitriiKhanov/VSR-21#main.py)
+
+[ЛБ 6](https://repl.it/@DmitriiKhanov/LR-2-chast-2#main.py)
+
+## Самостоятельная работа 3
+
+[ИСР 3.1](https://drive.google.com/drive/folders/1PdvLQH_cFUxqIPjE8Q2nQd9pmLxACWZP)
+
+[ИСР 3.2](https://drive.google.com/drive/folders/1TbPv7UDTUEfoz03uL8t4NqGjPcMFJj8w)
+
+[ВСР](https://drive.google.com/drive/folders/1XPSS6drREkf--1xnW4C6gAYy4CMSnlHW)
+
+[Презентация](https://drive.google.com/file/d/1MElvYcNmsAhIuiiYDlCx-zOAZoYwG-rv/view)
+
+## Самостоятельная работа 4
+
+[ИСР 2.1](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM6/ISR3_1.MD)
+
+[ВСР](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/prog1.rar)
+
+
 
 # Веб проектирование
 
