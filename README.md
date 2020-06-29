@@ -49,7 +49,7 @@
 
 # Программирование
 
-## 2 семестр
+## 3 семестр
 
 [GitHub, разметка MD(СМ_1)](https://github.com/KhanovDmitrii/13092018)
 
@@ -67,7 +67,7 @@
 
 [Лабораторная работа 08.11.2018](https://repl.it/@DmitriiKhanov/HarshShabbyProspect)
 
-## 3 семестр
+## 4 семестр
 
 [Лабораторная + самостоятельная работа №1 ](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/tree/master/python_2_sem_lb/lb1)
 
@@ -79,7 +79,23 @@
 
 [22.05.2019](https://repl.it/@DmitriiKhanov/22052019)
 
+## 5 семестр
 
+## Самостоятельная работа 1
+[ИСР 1.1](https://github.com/KhanovDmitrii/khanovdmitrii.github.io/blob/master/CEM5/SR1.MD)
+
+[ИСР 1.2](https://repl.it/@DmitriiKhanov/ISR-12-5siem#main.py)
+
+[ВСР 1.1] (https://repl.it/@DmitriiKhanov/VSR)
+
+## Самостоятельная работа 2
+
+[ИСР 2.1 - 2.2](https://repl.it/@DmitriiKhanov/ISR#main.py)
+
+[ВСР 2.1](https://repl.it/@DmitriiKhanov/VSR-5-21#main.py)
+
+
+## 6 семестр
 # Веб проектирование
 
 [Работа 1](https://github.com/KhanovDmitrii/13092018/blob/master/lab1_web.md)
