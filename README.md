@@ -86,7 +86,7 @@
 
 [ИСР 1.2](https://repl.it/@DmitriiKhanov/ISR-12-5siem#main.py)
 
-[ВСР 1.1] (https://repl.it/@DmitriiKhanov/VSR)
+[ВСР 1.1](https://repl.it/@DmitriiKhanov/VSR)
 
 ## Самостоятельная работа 2
 
